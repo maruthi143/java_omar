@@ -2,7 +2,7 @@ package com.company;
 
 public class array {
     public static void main(String[] args){
-        String[] langs={"java","python","php"};
+        String[] langs={"mahesh"};
         for (String s:langs){
             System.out.println(s);
         }
